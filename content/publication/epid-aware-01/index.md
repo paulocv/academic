@@ -23,19 +23,19 @@ publication_types: ["2"]
 publication: "Phys. Rev. E 100, 032313"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: One of the major issues in theoretical modeling of epidemic spreading is the development of methods to control the transmission of an infectious agent. Human behavior plays a fundamental role in the spreading dynamics and can be used to stop a disease from spreading or to reduce its burden, as individuals aware of the presence of a disease can take measures to reduce their exposure to contagion. In this paper, we propose a mathematical model for the spread of diseases with awareness in complex networks. Unlike previous models, the information is propagated following a generalized Maki-Thompson rumor model. Flexibility on the timescale between information and disease spreading is also included. We verify that the velocity characterizing the diffusion of information awareness greatly influences the disease prevalence. We also show that a reduction in the fraction of unaware individuals does not always imply a decrease of the prevalence, as the relative timescale between disease and awareness spreading plays a crucial role in the systems' dynamics. This result is shown to be independent of the network topology. We finally calculate the epidemic threshold of our model, and show that it does not depend on the relative timescale. Our results provide a new view on how information influence disease spreading and can be used for the development of more efficient methods for disease control.
 
 # Summary. An optional shortened abstract.
 summary: .
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/1812.01386.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Model scheme for epidemic spreading with awareness.'
   focal_point: ""
   preview_only: false
 
