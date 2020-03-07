@@ -18,7 +18,7 @@ organizations:
   url: "https://www2.ifsc.usp.br/portal-ifsc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests currently include epidemic models in complex networks and other populations.
+bio: A physicist working with epidemic models in complex networks, multiplex networks and other populations.
 
 interests:
 - Epidemic and rumor models
@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/paulocv
+- icon: cv
+  icon_pack: ai
+  link: http://lattes.cnpq.br/9148745845369524
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,8 +73,12 @@ user_groups:
 - Visitors
 ---
 
-[!WARNING: This page is under construction. Do not trust its information... yet!]
+[*!WARNING: This page is under construction. Do not trust its information... yet!*]
 
-[? ADD MY OWN DESCRIPTION HERE] Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a Ph.D. student at IFSC-USP (São Carlos - Brazil), currently in an internship at BIFI-UNIZar (Zaragoza - Spain). With a master in Atomic Physics, my current research is devoted to the world of complex systems and, in particular, epidemics and other spreading phenomena.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ph.D. supervisor: Prof. [Francisco Rodrigues](https://sites.icmc.usp.br/francisco/index.html)
+
+Supervisor in Zaragoza:  Prof. [Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/)
+
+
