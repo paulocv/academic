@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Paulo Cesar Ventura da Silva
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Instituto de Física de São Carlos - Universidade de São Paulo - Brazil
+  url: "https://www2.ifsc.usp.br/portal-ifsc/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
