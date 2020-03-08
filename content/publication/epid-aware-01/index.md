@@ -7,6 +7,7 @@ authors:
 - Federico Vazquez
 - Yamir Moreno
 - Francisco A Rodrigues
+# THIS is the paper publication date!
 date: "2019-09-24T00:00:00Z"
 doi: "https://doi.org/10.1103/PhysRevE.100.032313"
 
@@ -22,6 +23,9 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Phys. Rev. E 100, 032313"
 publication_short: ""
+
+# Option to render math between $$.
+math: true
 
 abstract: One of the major issues in theoretical modeling of epidemic spreading is the development of methods to control the transmission of an infectious agent. Human behavior plays a fundamental role in the spreading dynamics and can be used to stop a disease from spreading or to reduce its burden, as individuals aware of the presence of a disease can take measures to reduce their exposure to contagion. In this paper, we propose a mathematical model for the spread of diseases with awareness in complex networks. Unlike previous models, the information is propagated following a generalized Maki-Thompson rumor model. Flexibility on the timescale between information and disease spreading is also included. We verify that the velocity characterizing the diffusion of information awareness greatly influences the disease prevalence. We also show that a reduction in the fraction of unaware individuals does not always imply a decrease of the prevalence, as the relative timescale between disease and awareness spreading plays a crucial role in the systems' dynamics. This result is shown to be independent of the network topology. We finally calculate the epidemic threshold of our model, and show that it does not depend on the relative timescale. Our results provide a new view on how information influence disease spreading and can be used for the development of more efficient methods for disease control.
 
@@ -67,13 +71,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
+<!--{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+{{% /alert %}} -->
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+<!--- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

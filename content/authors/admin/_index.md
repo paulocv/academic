@@ -73,9 +73,7 @@ user_groups:
 - Visitors
 ---
 
-[*!WARNING: This page is under construction. Do not trust its information... yet!*]
-
-Hello! I am a Ph.D. student at IFSC-USP (São Carlos - Brazil), currently in an internship at BIFI-UNIZar (Zaragoza - Spain). With a master in Atomic Physics, my current research is devoted to the world of complex systems and, in particular, epidemics and other spreading phenomena.
+Hello! I am a Ph.D. student at IFSC-USP (São Carlos - Brazil), currently in an internship at BIFI-UNIZAR (Zaragoza - Spain). With a master in Atomic Physics, my current research is devoted to the world of complex systems and, in particular, epidemics and other spreading phenomena.
 
 Ph.D. supervisor: Prof. [Francisco Rodrigues](https://sites.icmc.usp.br/francisco/index.html)
 

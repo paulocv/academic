@@ -20,7 +20,7 @@
   Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
   {{% /alert %}}
 
-## Base assets that come in the example
+## Base widgets that come in the example
 
 See docs at https://sourcethemes.com/academic/docs/page-builder/
 
@@ -40,6 +40,11 @@ See docs at https://sourcethemes.com/academic/docs/page-builder/
 * tags = I guess it is for popular words that appear. A bit obscure though.
 * talks = "upcoming talks", using "pages" widget.
 
-## I have also included mine:
+### I have also included mine:
 
 * construc = blank widget to inform that the page is under construction. Bild!
+
+## Icons
+* icon_pack = "fab"  [link](https://fontawesome.com/icons?d=gallery&s=brands )
+* icon_pack = "fas" and "far [link](https://fontawesome.com/icons?d=gallery&s=regular,solid) 
+* icon_pack = "ai"  [link](https://jpswalsh.github.io/academicons/) 
