@@ -29,9 +29,7 @@ abstract: One of the major issues in theoretical modeling of epidemic spreading 
 summary: .
 
 tags:
-- Epidemics
-- Behavioral response
-- Multiplex network
+- Source Themes
 featured: true
 
 # links:
