@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/paulocv
-- icon: cv
+- icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/9148745845369524
 # Link to a PDF of your resume/CV from the About widget.

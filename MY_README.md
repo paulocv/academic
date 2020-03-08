@@ -1,10 +1,24 @@
 
 ## Quick actions
 * So far, I only had to edit the folders content/, config/ and static/.
+
 * Edit homepage assets in content/home. You can activate/deactivate them with "active" key.
+
 * Add new publications to content/publication. Just copy one of the existing folders and edit content. Remember that there are several publication types, selectable by "publication_type" key.
+
+* Edit personal info on content/authors/admin/
+
+* Contact info (for contact widget) gathers from config/_default/params.toml
+
 * Edit header menu in config/_default/menus.
+
 * Yet in config/_default/, params.toml edits several Academic theme specific options, while config.toml contains general website options.
+
+* <u>Hint</u>: add an "info box" with:
+
+  {{% alert note %}}
+  Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  {{% /alert %}}
 
 ## Base assets that come in the example
 
