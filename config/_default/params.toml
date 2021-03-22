@@ -269,3 +269,23 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+
+#############################
+## [Paulo] EXTRA STUFF
+#############################
+
+# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+  
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+  
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
+
+# Change this to "media" and rename the folders and all references to it, as in https://wowchemy.com/blog/v5.0.0-beta.0/#convert-your-site-to-use-hugo-modules
+media_dir = "img"
+

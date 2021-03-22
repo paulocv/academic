@@ -1,5 +1,6 @@
 ---
 # Display name
+# name: Paulo Cesar Ventura da Silva  # Legacy: before Hugo Modules
 name: Paulo Cesar Ventura da Silva
 
 # Username (this should match the folder name)

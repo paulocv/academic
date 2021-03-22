@@ -15,6 +15,7 @@ subtitle = ""
   columns = "1"
 
 [design.background]
+
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -53,6 +54,6 @@ subtitle = ""
 <!--img src="http://placekitten.com/700/200" alt="Under construction" width=700 -->
 <img src="img/bild_orig.png" alt="Sorry, this is a construction site." width=500>
 
-{{% alert note %}}
+{{% callout note %}}
 This website is still a work in progress. The information on it may be incomplete or incorrect.
-{{% /alert %}}
+{{% /callout %}}

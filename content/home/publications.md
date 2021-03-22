@@ -67,8 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- {{% alert note %}} 
+<!-- {{% callout note %}} 
  [Filter publications]({{< ref "/publication/_index.md" >}}).
- {{% /alert %}} -->
+ {{% /callout %}} -->
 
 <font color="blue"> You can [search]({{< ref "/publication/_index.md" >}}) through publications. </font>

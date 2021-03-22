@@ -14,11 +14,13 @@
 
 * Yet in config/_default/, params.toml edits several Academic theme specific options, while config.toml contains general website options.
 
-* <u>Hint</u>: add an "info box" with:
+* <u>Hint</u>: add an "info box" with 
 
-  {{% alert note %}}
+  {{% callout note %}}
   Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-  {{% /alert %}}
+  {{% /callout %}}
+  
+  (OLD KEYWORD: "alert"): had to change everything by hand...
 
 ## Base widgets that come in the example
 
