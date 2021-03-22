@@ -86,11 +86,13 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Mariano Esquillor Gómez, Edificio I + D, Campus Río Ebro", city = "Zaragoza", region = "", postcode = "50018", country = "Spain", country_code = "ES"}
+# address = {street = "Mariano Esquillor Gómez, Edificio I + D, Campus Río Ebro", city = "Zaragoza", region = "", postcode = "50018", country = "Spain", country_code = "ES"}
+address = {street = "Av. Trabalhador são-carlense, 400, IFSC/USP - Prédio da Administração", city = "São Carlos", region = "SP", postcode = "13566-590", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.68458", longitude = "-0.88695"} 
+#  coordinates = {latitude = "41.68458", longitude = "-0.88695"}   # BIFI - ZARAGOZA
+coordinates = {latitude = "-22.00794", longitude = "-47.89722"}   # IFSC-USP Predio da administracao
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -204,11 +206,14 @@ plugins_js  = []
 ## Comments
 ############################
 [comments]
+  # ---- DEPRECATED IN https://wowchemy.com/blog/v5.0.0-beta.3/
   # Comment provider:
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  # engine = 0
+  # ----------
+  provider = "disqus"  # "disqus", "commento"
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -227,11 +232,14 @@ plugins_js  = []
 ## Search
 ############################
 [search]
+  # ---- # Seemingly deprecated since version 5.0.0-beta.3: https://wowchemy.com/blog/v5.0.0-beta.3/
   # Search provider:
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  # engine = 1  
+  # ---- # end 
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -259,7 +267,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  #   engine = 2  # DEPRECATED 
+  provider = "mapnik"  # "", "google", "mapnik", "mapbox"
   api_key = ""
   zoom = 11.5
 
@@ -281,11 +290,12 @@ plugins_js  = []
 [cms]
  # Enable the admin panel. See https://wowchemy.com/docs/install/
  netlify_cms = true
+ branch = "master"
   
 # Icon Pack Extensions
 [icon.pack]
  ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
 
 # Change this to "media" and rename the folders and all references to it, as in https://wowchemy.com/blog/v5.0.0-beta.0/#convert-your-site-to-use-hugo-modules
-media_dir = "img"
+media_dir = "media"  # Old: "img"
 

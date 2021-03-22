@@ -2,7 +2,7 @@
 .idea/
 
 # Hugo
-resources/
+# resources/  # Recommended to be added in https://wowchemy.com/blog/v5.1.0/
 public/
 
 # Mine
