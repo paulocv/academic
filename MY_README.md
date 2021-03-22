@@ -1,3 +1,4 @@
+**Important**: from time to time, check on academic-wowchemy updates on their blog (https://wowchemy.com/blog/). Look for the "Breaking changes" section and apply them, to update your site files to the new stuff of both Hugo and Wowchemy.
 
 ## Quick actions
 * So far, I only had to edit the folders content/, config/ and static/.
@@ -21,6 +22,14 @@
   {{% /callout %}}
   
   (OLD KEYWORD: "alert"): had to change everything by hand...
+
+## Edit using netlify CMS
+https://www.netlifycms.org/  This is an open source tool to edit website files using github as backend.
+Instructions, as written by wowchemy: https://wowchemy.com/docs/getting-started/cms/
+They're not complete though. I got started here: https://www.netlifycms.org/docs/add-to-your-site/
+Open localhost:1313/admin/ to edit files locally.
+
+
 
 ## Base widgets that come in the example
 
