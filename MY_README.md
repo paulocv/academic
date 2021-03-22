@@ -28,6 +28,13 @@ https://www.netlifycms.org/  This is an open source tool to edit website files u
 Instructions, as written by wowchemy: https://wowchemy.com/docs/getting-started/cms/
 They're not complete though. I got started here: https://www.netlifycms.org/docs/add-to-your-site/
 Open localhost:1313/admin/ to edit files locally.
+**Be aware, though**, that even if you edit with CMS in the localhost, the changes are sent TO THE GITHUB REPO AND PUBLISHED INTO NETLIFY. Local files are _not_ changed, so you have to do it manually.
+
+### Pros:
+- A fancy-looking editor for the files of Hugo (besides other site builders).
+
+### Cons:
+- Apparently it reads the .md files, converts into its own fancy display format and, as of the write, it writes _from the fancy format_. In other words, it _rewrites_ the files, loosing comments, custom indentation and etc!!
 
 
 
