@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Model scheme for epidemic spreading with awareness.'
+  caption: 'Asymmetrical interaction between spreading processes, such as epidemics and information.'
   focal_point: ""
   preview_only: false
 
