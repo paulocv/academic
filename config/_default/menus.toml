@@ -28,6 +28,11 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Complex Project"  # Title of the link.
+  url = "complex-project/"  # Widget Page folder name.
+  weight = 150  # Position of the link in the navigation bar.
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
