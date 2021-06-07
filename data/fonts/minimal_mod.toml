@@ -1,0 +1,14 @@
+# Font style metadata
+name = "Minimal Modified"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Raleway:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&"
+# google_fonts = "family=Roboto+Mono&family=Roboto:wght@400;700&family=Raleway:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&"
+# google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"  # Original 
+
+# Font families - TO SEE CHANGES, YOU MUST RESTART HUGO SERVER
+heading_font = "Raleway"  # Montserrat
+body_font = "Open Sans"  # Roboto
+nav_font = "Open Sans"
+mono_font = "Roboto Mono"
+
