@@ -26,9 +26,9 @@ name: Paulo Cesar Ventura da Silva
 title: Paulo Cesar Ventura da Silva
 role: Ph.D Student
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: http://twitter.com/paulocv92
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.br/citations?user=LNQ26BcAAAAJ&hl=pt-BR&oi=ao
@@ -38,6 +38,9 @@ social:
   - icon: lattes
     icon_pack: ai
     link: http://lattes.cnpq.br/9148745845369524
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
 email: ""
 ---
 Hello! I am a Ph.D. student at IFSC-USP (São Carlos - Brazil), having performed a one-year internship at BIFI-UNIZAR (Zaragoza - Spain) from 2019 to 2020. With a master in Atomic Physics, my current research is devoted to the world of complex systems and, in particular, epidemics and other spreading phenomena.

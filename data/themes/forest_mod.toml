@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Forest Modified"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3e54fa" # Original: "#4caf50"
+
+# Menu
+menu_primary = "#3e54fa"
+menu_text = "#fff"
+menu_text_active = "#47daed"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(247, 247, 247)"
+home_section_even = "rgb(235, 235, 235)"
