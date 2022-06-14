@@ -43,8 +43,4 @@ social:
     link: "#contact"
 email: ""
 ---
-Hello! I am a Ph.D. student at IFSC-USP (São Carlos - Brazil), having performed a one-year internship at BIFI-UNIZAR (Zaragoza - Spain) from 2019 to 2020. With a master in Atomic Physics, my current research is devoted to the world of complex systems and, in particular, epidemics and other spreading phenomena.
-
-Ph.D. supervisor: Prof. [Francisco Rodrigues](https://sites.icmc.usp.br/francisco/index.html)
-
-Supervisor in Zaragoza:  Prof. [Yamir Moreno](http://cosnet.bifi.es/people/yamir-moreno/)
+I am a postdoc at the School of Public Health of Indiana University Bloomington (USA). I have a Ph.D. in Physics, obtained in 2022 from University of São Paulo (Brazil), having performed a one-year internship at Zaragoza University (Spain) from 2019 to 2020. In my current research, I work with multiscale modeling of airborne diseases in human populations.
