@@ -87,12 +87,14 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "Mariano Esquillor Gómez, Edificio I + D, Campus Río Ebro", city = "Zaragoza", region = "", postcode = "50018", country = "Spain", country_code = "ES"}
-address = {street = "Av. Trabalhador são-carlense, 400, IFSC/USP - Prédio da Administração", city = "São Carlos", region = "SP", postcode = "13566-590", country = "Brazil", country_code = "BR"}
+# address = {street = "Av. Trabalhador são-carlense, 400, IFSC/USP - Prédio da Administração", city = "São Carlos", region = "SP", postcode = "13566-590", country = "Brazil", country_code = "BR"}
+address = {street = "1025 E. 7th Street, Suite 111", city = "Bloomington", region = "IN", postcode = "47405", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #  coordinates = {latitude = "41.68458", longitude = "-0.88695"}   # BIFI - ZARAGOZA
-coordinates = {latitude = "-22.00794", longitude = "-47.89722"}   # IFSC-USP Predio da administracao
+# coordinates = {latitude = "-22.00794", longitude = "-47.89722"}   # IFSC-USP Predio da administracao
+coordinates = {latitude = "39.170039", longitude = "-86.521199"}   # SPH-IUB 
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
