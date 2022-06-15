@@ -1,19 +1,23 @@
 ---
 organizations:
-  - name: Instituto de Física de São Carlos - Universidade de São Paulo - Brazil
+  - name: School of Public Health – Indiana University Bloomington
+    url: https://publichealth.indiana.edu/
+  - name: Instituto de Física de São Carlos - Universidade de São Paulo
     url: https://www2.ifsc.usp.br/portal-ifsc/
 superuser: true
 authors:
   - admin
-bio: A physicist working with epidemic models in complex networks, multiplex
-  networks and other populations.
+bio: A physicist working with epidemic models in multiscale populations and complex networks.
 interests:
   - Epidemic and rumor models
   - Complex networks
   - Agent-based modeling
 education:
   courses:
-    - course: MS in Atomic Physics
+    - course: PhD in Physics
+      institution: São Carlos Institute of Physics - University of São Paulo
+      year: 2022
+    - course: MSc in Physics
       institution: São Carlos Institute of Physics - University of São Paulo
       year: 2017
     - course: BSc in Basic Physics
@@ -22,9 +26,9 @@ education:
 user_groups:
   - Researchers
   - Visitors
-name: Paulo Cesar Ventura da Silva
-title: Paulo Cesar Ventura da Silva
-role: Ph.D Student
+name: Paulo Cesar Ventura
+title: Paulo Cesar Ventura
+role: Postdoctoral fellow
 social:
   - icon: twitter
     icon_pack: fab
