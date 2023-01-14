@@ -7,7 +7,7 @@ authors:
 - Francisco A Rodrigues
 # THIS is the paper publication date!
 date: "2021-05-20T00:00:00Z"
-doi: ""
+doi: "https://www.sciencedirect.com/science/article/pii/S1755436522000068"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2105.09697"
+publication: "Epidemics 38, 100544"
 publication_short: ""
 
 # Option to render math between $$.
@@ -39,8 +39,7 @@ featured: true
 
 # links:
 # - name: ""
-#   url: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013146"
-url_pdf: https://arxiv.org/abs/2105.09697
+url_pdf: "https://reader.elsevier.com/reader/sd/pii/S1755436522000068?token=939D0DF0E89E9515552FC602D76119622E8BA901F3B9B2B0B57D6DAEF871C3ACB7DFB32EB5D5E0110DFE92A3EC7DA7F7&originRegion=us-east-1&originCreation=20230114175931"
 url_code: ''
 url_dataset: ''
 url_poster: ''
