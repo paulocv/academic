@@ -2,6 +2,7 @@
 title: "Modeling the effects of social distancing on the large-scale spreading of diseases"
 authors:
 - admin
+- Alberto Aleta
 - Yamir Moreno
 - Francisco A Rodrigues
 # THIS is the paper publication date!
