@@ -39,7 +39,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://www.sciencedirect.com/science/article/abs/pii/S0960077922000601"
+#   url: "https://www.sciencedirect.com/science/article/abs/pii/S0960077922000601"
 url_pdf: https://arxiv.org/pdf/2112.07829.pdf
 url_code: ''
 url_dataset: ''
