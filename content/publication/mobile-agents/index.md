@@ -7,7 +7,7 @@ authors:
 - Yamir Moreno
 # THIS is the paper publication date!
 date: "2022-03-01T00:00:00Z"
-doi: "https://www.sciencedirect.com/science/article/abs/pii/S0960077922000601"
+doi: "10.1016/j.chaos.2022.111849"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

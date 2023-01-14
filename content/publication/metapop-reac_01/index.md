@@ -7,7 +7,7 @@ authors:
 - Francisco A Rodrigues
 # THIS is the paper publication date!
 date: "2021-05-20T00:00:00Z"
-doi: "https://www.sciencedirect.com/science/article/pii/S1755436522000068"
+doi: "10.1016/j.epidem.2022.100544"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
