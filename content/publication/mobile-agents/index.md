@@ -7,7 +7,7 @@ authors:
 - Yamir Moreno
 # THIS is the paper publication date!
 date: "2022-03-01T00:00:00Z"
-doi: ""
+doi: "https://www.sciencedirect.com/science/article/abs/pii/S0960077922000601"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -39,7 +39,6 @@ featured: true
 
 # links:
 # - name: ""
-#   url: "https://www.sciencedirect.com/science/article/abs/pii/S0960077922000601"
 url_pdf: https://arxiv.org/pdf/2112.07829.pdf
 url_code: ''
 url_dataset: ''
