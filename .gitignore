@@ -7,3 +7,5 @@ public/
 
 # Mine
 hugo-academic-master.zip
+.DS_Store
+.vscode
