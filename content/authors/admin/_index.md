@@ -47,4 +47,4 @@ social:
     link: "#contact"
 email: ""
 ---
-I am a postdoc at the School of Public Health of Indiana University Bloomington (USA). I have a Ph.D. in Physics, obtained in 2022 from University of São Paulo (Brazil), having performed a one-year internship at Zaragoza University (Spain) from 2019 to 2020. In my current research, I work with multiscale modeling of airborne diseases in human populations.
+I am a postdoc at Indiana University, USA. I hold a Ph.D. in Physics, obtained in 2022 from the University of São Paulo in Brazil. From 2019 to 2020, I completed a one-year internship at Zaragoza University in Spain. My current research focuses on computational epidemiology, specifically studying respiratory and vector-borne diseases through computational modeling.
