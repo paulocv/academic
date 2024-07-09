@@ -9,3 +9,5 @@ public/
 hugo-academic-master.zip
 .DS_Store
 .vscode
+virtualenv_info
+.hugo_build.lock
